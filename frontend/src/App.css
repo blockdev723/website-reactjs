@@ -20,3 +20,42 @@
 .App-link {
   color: #09d3ac;
 }
+
+/* Bayr */
+
+a:hover {
+  outline: none;
+  text-decoration: none;
+  color: #ee7700;
+}
+
+.idiom-tag-default {
+  color: #fff!important;
+  font-size: 1.0rem;
+  padding-top: .1rem;
+  padding-bottom: .1rem;
+  white-space: nowrap;
+  margin-right: 3px;
+  margin-bottom: .2rem;
+  display: inline-block;
+  width:100%
+}
+
+.idiom-tag-default {
+  background-color: #818a91;
+}
+
+.idiom-tag-pill {
+  padding-right: .6em;
+  padding-left: .6em;
+  border-radius: 10rem;
+}
+
+.sidebar>.tag-list>a {
+  padding: 12px 5px 12px 15px;
+  display: block;
+  text-decoration: none;
+  color: #000;
+  line-height: 20px;
+}
+
